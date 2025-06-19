@@ -9,7 +9,7 @@ My goal: Secure digital environments and also make them more efficient. I’m al
 
 ### What I’m up to:
 
-- 🛡️ **Cybersecurity Focus:** From red team activities and **Kali Linux** explorations to **industrial cybersecurity**, I dive deep into securing networks and systems. I’m passionate about discovering vulnerabilities before the bad guys do.
+- 🛡️ **Cybersecurity Focus:** From red team activities and **Kali Linux** explorations to **industrial cybersecurity**, I dive deep into securing networks and systems. I’m focused about discovering vulnerabilities before the bad guys do.
 - 💻 **Linux & Windows Labs:** I spend a lot of time configuring and experimenting with both **Linux** and **Windows** environments, building automated solutions, and enhancing security through custom tools and scripts.
 - 👨‍💻 **Development Journey:** I’m constantly refining my skills in **front-end** and **back-end** technologies. I focus on practical solutions that tackle real-world problems, and I love writing clean, scalable code.
 - 🔄 **Automation Lover:** Whether it’s through scripting or developing full-fledged tools, I enjoy automating tasks to improve efficiency—because time is precious, and there’s always a better way to do things.
