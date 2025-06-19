@@ -2,7 +2,10 @@
 
 🔐 **Cybersecurity Enthusiast | Developer | Automator**
 
-Hey there! I'm a passionate cybersecurity professional and a constantly evolving developer. My goal? To not only secure digital environments but also make them more efficient. Whether it’s automating repetitive tasks or building solutions that streamline workflows, I’m always looking for creative ways to make life easier for both myself and my team.
+Hey there! I'm a passionate cybersecurity professional and a constantly evolving developer. 
+
+My goal: Secure digital environments and also make them more efficient. I’m always looking for creative ways to make life easier for both myself and my team.
+
 
 ### What I’m up to:
 
@@ -11,6 +14,7 @@ Hey there! I'm a passionate cybersecurity professional and a constantly evolving
 - 👨‍💻 **Development Journey:** I’m constantly refining my skills in **front-end** and **back-end** technologies. I focus on practical solutions that tackle real-world problems, and I love writing clean, scalable code.
 - 🔄 **Automation Lover:** Whether it’s through scripting or developing full-fledged tools, I enjoy automating tasks to improve efficiency—because time is precious, and there’s always a better way to do things.
 - 📚 **Lifelong Learner:** I’m always seeking new knowledge and pushing my limits. And as I grow, I love sharing what I learn with others who are also passionate about this field.
+
 
 ### Feel free to explore my projects! 🌐
 
