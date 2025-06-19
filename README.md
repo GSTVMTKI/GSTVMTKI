@@ -2,7 +2,7 @@
 
 🔐 **Cybersecurity Enthusiast | Developer | Automator**
 
-Hey there! I'm a passionate cybersecurity professional and a constantly evolving developer. 
+Hey there! I'm a professional cybersecurity guy and a constantly evolving developer. 
 
 My goal: Secure digital environments and also make them more efficient. I’m always looking for creative ways to make life easier for both myself and my team.
 
